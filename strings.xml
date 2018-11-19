@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Global -->
+    <string name="app_name" translatable="false">X-Bike</string>
+
+
+    <string name="card_unlock_code_description">Enter a bike number to check for availability. Your phone will connect via Bluetooth to open the lock.</string>
+
+    <!-- Log in / sign up -->
+    <string name="auth_title_x_bike"></string>
+    <string name="auth_title_hello_bike"></string>
+    <string name="auth_text"></string>
+    <string name="auth_placeholder_name">Name</string>
+    <string name="auth_placeholder_email">Email Address</string>
+    <string name="auth_placeholder_password">Password (at least 8 character)</string>
+
+    	<!-- Log in -->
+	    <string name="auth_tab_label_log_in">Log in</string>
+	    <string name="auth_tab_text_log_in">Already have an account?</string>
+	    <string name="auth_button_log_in">Log in</string>
+
+	    <!-- Sign up -->
+	    <string name="auth_tab_label_sign_up">Sign up</string>
+	    <string name="auth_tab_text_sign_up">Don't have an account yet?</string>
+	    <string name="auth_button_sign_up">Sign up</string>
+	    <string name="auth_text_sign_up_disclaimer">By signing up you agree to our Terms &amp; Conditions and Privacy Policy</string>
+
+    <!-- Reset password -->
+    <string name="title_reset_password"></string>
+    <string name="text_reset_password"></string>
+    <string name="button_reset_password"></string>
+
+    <!-- Parking spot views -->
+    <string name="label_reservation_successful">Reservation successful!</string>
+    <string name="label_reservation_time_remaining">Time remaining:</string>
+    <string name="button_cancel_reservation"></string>
+
+	    <!-- Reserve  -->
+	    <string name="button_reserve">Reserve Bike</string>
+	    <!-- Reservation confirmation -->
+		    <string name="title_reservation_confirmation"></string>
+		    <string name="text_reservation_confirmation"></string>
+		    <string name="button_reservation_confirmation">Continue</string>
+
+	    <!-- Navigate -->
+    	<string name="button_navigate">Show directions</string>
+    		<!-- Geofence banner notification -->
+		    <string name="notification_title_geofence"></string>
+		    <string name="notification_text_geofence"></string>
+		    <string name="notification_button_geofence">Continue</string>
+
+	    <!-- Select -->
+	    <string name="button_select">Select Bike</string>
+
+
+    <!-- Ride views -->
+    <string name="ride_title">Your ride</string>
+    <string name="ride_label_duration">Duration</string>
+    <string name="ride_label_price">Price so far</string>
+
+
+    	<!-- Lock & pause -->
+    	<string name="button_pause">Lock &amp; Pause Ride</string>
+
+    	<!-- Unlock -->
+    	<string name="">Unlock</string>
+
+    	<!-- Lock & end -->
+        <string name="button_end">Lock &amp; End Ride</string>
+
+
+    <!-- Receipt -->
+    <string name="receipt_title"></string>
+    <string name="receipt_text_x_bike">Thank you for using X.bike</string>
+    <string name="receipt_text_hello_bike">Thank you for using Hello-Bike</string>
+    <string name="receipt_label_date">Date</string>
+    <string name="receipt_label_from">From</string>
+    <string name="receipt_label_to">To</string>
+    <string name="receipt_label_duration">Duration</string>
+    <string name="receipt_label_price">Total price</string>
+    <string name="receipt_button">Continue</string>
+    
+
+    <!-- Messages (Bluetooth, Location, email confirmation) -->
+    <string name="message_bluetooth_off_title"></string>
+    <string name="message_bluetooth_off_text"></string>
+    <string name="message_location_off_title"></string>
+    <string name="message_location_off_text"></string>
+    <string name="message_bluetooth_and_location_off_title"></string>
+    <string name="message_bluetooth_and_location_off_text"></string>
+
+
+    <!-- Location permission -->
+    <string name="prompt_title_location_x_bike">X.bike would like to use your location</string>
+    <string name="prompt_title_locationhello_bike">Hello-Bike would like to use your location</string>
+    <string name="prompt_text_location"></string>
+    <string name="prompt_button_location_positive">Allow</string>
+   	<string name="prompt_button_location_negative">Don't allow</string>	
+
+
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+</resources>
