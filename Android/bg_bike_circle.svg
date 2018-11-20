@@ -5,13 +5,11 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="BikeCircle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M0,38 L0,36.2840432 C2.66026292,34.7925861 4.53505595,33.5154078 5.62437909,32.4525084 C7.8360373,30.2944982 9.55162805,27.5954587 10.5507838,24.5155733 C10.8531607,23.5835692 11.1720878,22.755812 11.5075853,22.0323081 C17.5402463,9.02281258 30.7164278,0 46,0 C61.2824091,0 74.4577481,9.02143927 80.4910372,22.0293379 C80.8269211,22.7535107 81.1462032,23.5821208 81.4488836,24.5151685 C84.0570817,32.5552073 91.5474903,38 100,38 L-8.67361738e-19,38 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.900000036" transform="translate(50.000000, 19.000000) scale(-1, 1) translate(-50.000000, -19.000000) "></path>
-        <g id="Bike-number" transform="translate(20.000000, 4.000000)">
+        <path d="M8,38 L100,38 C100,17.0131795 82.9868205,0 62,0 C46.7364635,0 33.5747962,8.99917145 27.5313474,21.9811649 C27.1891667,22.7162068 26.8641008,23.558699 26.5561498,24.5086415 L26.5561679,24.5086473 C23.9486038,32.5522522 16.4557063,38 8,38 Z" id="Oval" fill="#FFFFFF" opacity="0.900000036"></path>
+        <g id="Bike-number" transform="translate(28.000000, 4.000000)">
             <circle id="Oval-4-Copy" fill="#DDDDDD" fill-rule="evenodd" cx="34" cy="34" r="34"></circle>
             <text id="0967" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold"></text>
-            <text id="Bike" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
-                <tspan x="22.2553711" y="25">Bike</tspan>
-            </text>
+            <text id="Bike" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></text>
         </g>
     </g>
 </svg>
