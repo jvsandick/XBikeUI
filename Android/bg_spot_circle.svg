@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="100px" height="72px" viewBox="0 0 100 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="72px" height="68px" viewBox="0 0 72 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>SpotCircle</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="SpotCircle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M8,38 L100,38 C100,17.0131795 82.9868205,0 62,0 C46.7364635,0 33.5747962,8.99917145 27.5313474,21.9811649 C27.1891667,22.7162068 26.8641008,23.558699 26.5561498,24.5086415 L26.5561679,24.5086473 C23.9486038,32.5522522 16.4557063,38 8,38 Z" id="Oval" fill="#FFFFFF" opacity="0.900000036"></path>
-        <g id="Bike-counter" transform="translate(28.000000, 4.000000)">
-            <circle id="Oval" fill="#CC0000" fill-rule="evenodd" cx="34" cy="34" r="34"></circle>
-            <text id="2" font-family="Roboto-Bold, Roboto" font-size="30" font-weight="bold"></text>
-            <g id="BikeIcon" transform="translate(20.000000, 39.000000)" fill="#FFFFFF" fill-rule="evenodd" stroke-width="1">
+        <path d="M72,36 C72,16.117749 55.882251,0 36,0 C16.117749,0 0,16.117749 0,36 L72,36 Z" id="Oval-3" fill="#FFFFFF" opacity="0.9"></path>
+        <g id="Bike-counter" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval" fill="#CC0000" fill-rule="evenodd" cx="32" cy="32" r="32"></circle>
+            <text id="2" font-family="Roboto-Bold, Roboto" font-size="24" font-weight="bold"></text>
+            <g id="BikeIcon" transform="translate(18.000000, 37.000000)" fill="#FFFFFF" fill-rule="evenodd" stroke-width="1">
                 <g id="Outlined">
                     <path d="M18.6770869,1.500728 L17.2217603,1.50779877 C16.8839214,1.50944018 16.6087012,1.24037763 16.6070387,0.906830744 C16.6053761,0.573283862 16.8779009,0.301560066 17.2157397,0.29991866 L19.0932298,0.290796786 C19.3473508,0.289562127 19.5757795,0.443573111 19.6670984,0.677709958 L23.6802333,10.9671836 C23.8016363,11.2784547 23.6444708,11.6279559 23.3291945,11.7478166 C23.0139182,11.8676772 22.6599197,11.7125084 22.5385167,11.4012374 L18.6770869,1.500728 Z" id="Line" fill-rule="nonzero"></path>
                     <path d="M13.7085916,10.9599101 C13.8340633,11.2696044 13.6814909,11.6210839 13.3678116,11.7449616 C13.0541323,11.8688393 12.6981301,11.7182052 12.5726584,11.4085109 L9.10516645,2.84991013 L8.15625,2.84991013 C7.81840706,2.84991013 7.54453125,2.57951369 7.54453125,2.24596277 C7.54453125,1.91241184 7.81840706,1.6420154 8.15625,1.6420154 L9.40803398,1.6420154 C9.44374977,1.63585395 9.48072515,1.63271127 9.51874279,1.63290258 L11.3312428,1.64202324 C12.1447813,1.64611704 12.1416741,2.84991013 11.328125,2.84991013 L10.422849,2.84991013 L13.7085916,10.9599101 Z" id="Line" fill-rule="nonzero"></path>
