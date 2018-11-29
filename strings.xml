@@ -26,47 +26,69 @@
 	    <string name="auth_text_sign_up_disclaimer">By signing up you agree to our Terms &amp; Conditions and Privacy Policy</string>
 
     <!-- Reset password -->
-    <string name="title_reset_password"></string>
-    <string name="text_reset_password"></string>
-    <string name="button_reset_password"></string>
+    <string name="reset_password_title">Reset your password</string>
+    <string name="reset_password_text">Enter your email address to receive a password reset link.</string>
+    <string name="reset_password_button">Send link</string>
 
     <!-- Parking spot views -->
-    <string name="label_reservation_successful">Reservation successful!</string>
-    <string name="label_reservation_time_remaining">Time remaining:</string>
-    <string name="button_cancel_reservation"></string>
+    <string name="reservation_label_successful">Reservation successful!</string>
+    <string name="reservation_label_time_remaining">Time remaining:</string>
+    <string name="reservation_button_cancel">Cancel</string>
 
 	    <!-- Reserve  -->
-	    <string name="button_reserve">Reserve Bike</string>
-	    <!-- Reservation confirmation -->
-		    <string name="title_reservation_confirmation"></string>
-		    <string name="text_reservation_confirmation"></string>
-		    <string name="button_reservation_confirmation">Continue</string>
+	    <string name="reserve_button">Reserve Bike</string>
+	    <!-- Reservation confirm -->
+		    <string name="reservation_confirm_title">Reservation successful!</string>
+		    <string name="reservation_confirm_text">Go to the selected parking spot to select a bike and start riding. Tap anywhere to continue</string>
 
 	    <!-- Navigate -->
-    	<string name="button_navigate">Show directions</string>
+    	<string name="navigate_button">Show directions</string>
     		<!-- Geofence banner notification -->
-		    <string name="notification_title_geofence"></string>
-		    <string name="notification_text_geofence"></string>
-		    <string name="notification_button_geofence">Continue</string>
+		    <string name="geofence_notification_title_">You have reached the selected parking spot!</string>
+		    <string name="geofence_notification_text_hello_bike">Tap here to open the Hello-Bike app and select a bike</string>
+            <string name="geofence_notification_text_x_bike">Tap here to open the X.bike app and select a bike</string>
 
 	    <!-- Select -->
-	    <string name="button_select">Select Bike</string>
+	    <string name="select_button">Select a Bike</string>
+
+        <!-- Start -->
+        <string name="start_title">Enter a bike ID</string>
+        <string name="start_info">We will check for availability and then connect to the lock via Bluetooth.</string>
+        <string name="start_button">Connect</string>
+
+        <!-- Starting -->
+        <string name="connecting_title">Starting Your Ride...</string>
+        <string name="connecting_info">Checking for availability and Bluetooth connection.</string>
+        <string name="connecting_button_step_1">Checking availability...</string>
+        <string name="connecting_button_step_2">Looking for Bluetooth...</string>
+        <string name="connecting_button_step_3">Connecting...</string>
+        <string name="connecting_button_step_4">Unlocking...</string>
+
+        <!-- Connected -->
+        <string name="connecting_title">Bike [ID] connected!</string>
+        <string name="connecting_info">You have succesfully connected to the selected bike. Tap the button to unlock and start your ride!</string>
+        <string name="connecting_button">Unlock &amp; Start Ride!</string>
 
 
     <!-- Ride views -->
-    <string name="ride_title">Your ride</string>
+    <string name="ride_title">Current Ride</string>
     <string name="ride_label_duration">Duration</string>
     <string name="ride_label_price">Price so far</string>
 
 
     	<!-- Lock & pause -->
-    	<string name="button_pause">Lock &amp; Pause Ride</string>
+    	<string name="pause_button">Lock &amp; Pause Ride</string>
 
     	<!-- Unlock -->
-    	<string name="">Unlock</string>
+    	<string name="unlock_button">Unlock</string>
 
     	<!-- Lock & end -->
-        <string name="button_end">Lock &amp; End Ride</string>
+        <string name="end_button">Lock &amp; End Ride</string>
+
+    <!-- Locking -->
+    <string name="locking_title">Manually lock the bike</string>
+    <string name="locking_info">Push down the orange lever on the lock to complete the locking sequence.</string>
+    <string name="button">Locking...</string>
 
 
     <!-- Receipt -->
@@ -82,12 +104,14 @@
     
 
     <!-- Messages (Bluetooth, Location, email confirmation) -->
-    <string name="message_bluetooth_off_title"></string>
-    <string name="message_bluetooth_off_text"></string>
-    <string name="message_location_off_title"></string>
-    <string name="message_location_off_text"></string>
-    <string name="message_bluetooth_and_location_off_title"></string>
-    <string name="message_bluetooth_and_location_off_text"></string>
+    <string name="message_bluetooth_off_title">Bluetooth is off</string>
+    <string name="message_bluetooth_off_text">Turn on Bluetooth to start riding</string>
+    <string name="message_location_off_title">Location services are off</string>
+    <string name="message_location_off_text">Turn on location services to start riding</string>
+    <string name="message_bluetooth_and_location_off_title">Bluetooth and GPS is off</string>
+    <string name="message_bluetooth_and_location_off_text">Turn on Bluetooth and location services to start riding</string>
+    <string name="message_confirm_email_title">Please confirm your email</string>
+    <string name="message_confirm_email_text">Click the link in your inbox to start riding</string>
 
 
     <!-- Location permission -->
