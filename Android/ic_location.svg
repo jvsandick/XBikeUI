@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location-icon" transform="translate(-15.000000, -14.000000)" fill="#4A4A4A" fill-rule="nonzero">
+            <path d="M14.4866069,22.5 L33.1978838,29.1825989 L31.0060389,22.6592509 C30.9713204,22.555922 30.9713204,22.444078 31.0060389,22.3407491 L33.1978838,15.8174011 L14.4866069,22.5 Z M34.4739611,29.8407491 C34.606934,30.2365018 34.2250043,30.6112897 33.8318318,30.470871 L12.8318318,22.970871 C12.3893894,22.8128558 12.3893894,22.1871442 12.8318318,22.029129 L33.8318318,14.529129 C34.2250043,14.3887103 34.606934,14.7634982 34.4739611,15.1592509 L32.0074694,22.5 L34.4739611,29.8407491 Z" id="Location" transform="translate(23.500459, 22.500000) rotate(45.000000) translate(-23.500459, -22.500000) "></path>
+        </g>
+    </g>
+</svg>

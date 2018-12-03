@@ -5,10 +5,12 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Detail-reserve" transform="translate(-95.000000, -610.000000)" stroke="#FFFFFF" stroke-width="2">
-            <g id="Reserve-icon" transform="translate(96.000000, 611.000000)">
-                <rect id="Rectangle-2" x="0" y="0" width="16" height="16" rx="2"></rect>
-                <polyline id="Path-2" stroke-linecap="square" stroke-linejoin="round" points="5 8.5 7.57142857 13 11 4"></polyline>
+        <g id="Detail-reserve" transform="translate(-108.000000, -610.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group" transform="translate(109.000000, 606.000000)">
+                <g id="Reserve-icon" transform="translate(0.000000, 5.000000)">
+                    <path d="M2,1 C1.44771525,1 1,1.44771525 1,2 L1,14 C1,14.5522847 1.44771525,15 2,15 L14,15 C14.5522847,15 15,14.5522847 15,14 L15,2 C15,1.44771525 14.5522847,1 14,1 L2,1 Z M2,-1 L14,-1 C15.6568542,-1 17,0.343145751 17,2 L17,14 C17,15.6568542 15.6568542,17 14,17 L2,17 C0.343145751,17 -1,15.6568542 -1,14 L-1,2 C-1,0.343145751 0.343145751,-1 2,-1 Z" id="Rectangle-2"></path>
+                    <path d="M10.4215076,2.70951694 L12.2904831,3.42150759 L8.50591631,13.3559953 C8.20526644,14.1452012 7.12219123,14.2293991 6.70318543,13.4961389 L3.63561792,8.1278958 L5.3721042,7.13561792 L7.39006601,10.6670511 L10.4215076,2.70951694 Z" id="Path-2"></path>
+                </g>
             </g>
         </g>
     </g>
