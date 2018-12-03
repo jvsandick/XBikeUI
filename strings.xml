@@ -75,7 +75,6 @@
     <string name="ride_label_duration">Duration</string>
     <string name="ride_label_price">Price so far</string>
 
-
     	<!-- Lock & pause -->
     	<string name="pause_button">Lock &amp; Pause Ride</string>
 
@@ -87,8 +86,14 @@
 
     <!-- Locking -->
     <string name="locking_title">Manually lock the bike</string>
-    <string name="locking_info">Push down the orange lever on the lock to complete the locking sequence.</string>
-    <string name="button">Locking...</string>
+    <string name="locking_text">Push down the orange lever on the lock to complete the locking sequence.</string>
+    <string name="locking_button">Locking...</string>
+
+    <!-- Unlocked -->
+    <string name="unlocked_title">Bike Unlocked!</string>
+    <string name="unlocked_text_hello_bike">Go out and explore! You can go and lock the bike anywhere. Return to a Hello-Bike spot to end your ride.</string>
+    <string name="unlocked_text_x_bike">Go out and explore! You can go and lock the bike anywhere. Return to a X.bike spot to end your ride.</string>
+    <string name="unlocked_tap">Tap anywhere to continue</string>
 
 
     <!-- Receipt -->
