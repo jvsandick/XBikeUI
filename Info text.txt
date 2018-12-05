@@ -1,0 +1,40 @@
+Info page text
+
+How to use Hello-Bike
+===================================
+Using a Hello-Bike takes a few simple steps.
+1. Download the Hello-Bike app and sign up for a new account or log in to an existing account.
+2. Tap on a parking spot on the map and tap ‘Reserve a Bike’ to make sure a bike is available when you get there.
+3. Optionally tap ‘Show Directions’, to navigate to the selected parking spot.
+4. At the parking spot, tap ’Select a Bike’ and enter a Bike ID.
+5. If the bike is available, your phone will connect via Bluetooth to open the lock
+6. Go anywhere and lock the bike as you like, it will stay yours, until you end your ride by locking it at a parking spot.
+
+
+
+FAQ
+===================================
+Where do I find Hello-Bikes?
+Hello-Bikes are parked at Hello-Bike spots. You can start and end your ride at these spots. 
+
+How do I rent a Hello-Bike?
+By downloading the app and signing up. Pick a parking spot, reserve a bike, and open it via Bluetooth. The rental period runs until you return and lock the bike at any Hello-Bike spot.
+
+How do I unlock a Hello-Bike?
+When starting a ride, the app will unlock the bike via Bluetooth. When using the bike you can
+
+How do I lock a Hello-Bike?
+
+How do I return a Hello-Bike?
+
+Why is a bike unavailable?
+
+What happens if a Hello-Bike breaks down?
+
+
+
+
+Contact
+===================================
+020-2619001
+info@hello-bike.nl
