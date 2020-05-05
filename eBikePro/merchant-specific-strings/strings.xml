@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">eBikePro</string>
+    <string name="login_title">Bienvenue sur eBikePro!</string>
+    <string name="prompt_location_title">eBikePro souhaite accéder à votre localisation</string>
+    <string name="notification_geofence_text">Cliquez ici pour ouvrir l’application eBikePro et sélectionnez un vélo électrique</string>
+    <string name="journey_unlocked_text">Vous pouvez effectuer un trajet et verrouiller le vélo électrique n’importe où. Rendez-vous à un lieu de stationnement eBikePro pour terminer votre trajet.</string>
+    <string name="receipt_text">Merci d’avoir utilisé eBikePro</string>
+
+    <string name="location_denied_text">Veuillez réactiver la localisation pour pouvoir utiliser les vélos électriques</string>
+    <string name="location_restricted_text">Veuillez réactiver la localisation pour pouvoir utiliser les vélos électriques</string>
+    <string name="location_disabled_text">Les services de localisation sont désactivés</string>
+    <string name="bluetooth_denied_text">L’application eBike-Pro veut accéder à votre Bluetooth</string>
+    <string name="bluetooth_disabled_text">L’application eBike-Pro veut accéder à votre Bluetooth</string>
+
+    <string name="payment_setup_pay_as_you_go_text">eBikePro est un service souple, sécurisé et simple d’utilisation.  A la fin de chaque trajet, votre carte de credit sera débitée. La mise ne place de votre mode de paiement implique des frais de mise en place uniques.</string>
+    <string name="payment_setup_usage_first_price">3,00€</string>
+    <string name="payment_setup_usage_minute_price">0,05€</string>
+    <string name="payment_setup_usage_day_text">Après 6 heures - Prix par jour</string>
+    <string name="payment_setup_usage_day_price">18,00€</string>
+</resources>
