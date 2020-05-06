@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Back icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back-icon" transform="translate(-18.000000, -15.000000)" fill="#4A4A4A" fill-rule="nonzero">
+            <path d="M19.7507011,23.8916457 L28.4521819,31.6262953 C28.6585733,31.8097543 28.6771637,32.1257905 28.4937047,32.3321819 C28.3102457,32.5385733 27.9942095,32.5571637 27.7878181,32.3737047 L18.6678181,24.267038 C18.4447333,24.0687404 18.4439503,23.7204245 18.6661413,23.5211259 L27.4661413,15.6277926 C27.6717057,15.4434075 27.9878223,15.4605768 28.1722074,15.6661413 C28.3565925,15.8717057 28.3394232,16.1878223 28.1338587,16.3722074 L19.7507011,23.8916457 Z" id="Back-icon"></path>
+        </g>
+    </g>
+</svg>

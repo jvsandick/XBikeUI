@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>directions icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Detail-navigate" transform="translate(-103.000000, -609.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group" transform="translate(99.000000, 605.000000)">
+                <path d="M5.54353159,11.196652 L17.8517785,15.5924545 L16.4549949,11.4353603 C16.4029537,11.280476 16.4029537,11.112828 16.4549949,10.9579437 L17.8517785,6.80084952 L5.54353159,11.196652 Z M19.7645474,16.5789849 C19.9638664,17.1721962 19.3913749,17.7339824 18.8020313,17.5235025 L3.06311589,11.9024613 C2.39991936,11.6656054 2.39991936,10.7276985 3.06311589,10.4908426 L18.8020313,4.86980144 C19.3913749,4.65932156 19.9638664,5.22110776 19.7645474,5.81431907 L17.9560835,11.196652 L19.7645474,16.5789849 Z" id="directions-icon" transform="translate(11.185337, 11.196652) rotate(45.000000) translate(-11.185337, -11.196652) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

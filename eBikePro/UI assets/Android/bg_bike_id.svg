@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="68px" viewBox="0 0 72 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>BikeCircle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BikeCircle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M72,36 C72,16.117749 55.882251,0 36,0 C16.117749,0 0,16.117749 0,36 L72,36 Z" id="Oval-3" fill="#FFFFFF" opacity="0.9"></path>
+        <g id="Bike-number" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval-4-Copy" fill="#DFDFDF" fill-rule="evenodd" cx="32" cy="32" r="32"></circle>
+            <text id="0967" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold"></text>
+            <text id="Bike-ID" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></text>
+        </g>
+    </g>
+</svg>
