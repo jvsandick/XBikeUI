@@ -18,7 +18,7 @@
     <string name="logout_dialog_placeholder_email">$EMAIL_ADDRESS</string>
 
     <string name="login_validation_dialog_title">Authentification Erreur</string>
-    <string name="login_validation_no_name">NNom invalide</string>
+    <string name="login_validation_no_name">Nom invalide</string>
     <string name="login_validation_invalid_email">Adresse e-mail erronnée.</string>
     <string name="login_validation_no_password">Le mot de passe n'est pas valide</string>
 
@@ -74,7 +74,7 @@
     <string name="select_bike_cannot_dismiss_title">De liaison…</string>
     <string name="select_bike_cannot_dismiss_text">Veuillez patienter, la connection est en cours.</string>
     <string name="select_bike_not_available_title">Vélo non disponible</string>
-    <string name="select_bike_not_available_text">Ce vélo éléctrique n’est pas disponible actuellement. Il peut être indisponible ou en cours d’utilisation.</string>
+    <string name="select_bike_not_available_text">Ce vélo électrique n’est pas disponible actuellement. Il peut être indisponible ou en cours d’utilisation.</string>
     <string name="select_bike_awaiting_repair_text">Ce vélo électrique requiert une réparation, veuillez choisir un autre vélo électrique.</string>
     <string name="select_bike_timeout_title">La connexion a échoué</string>
     <string name="select_bike_timeout_text">Echec de connection à ce vélo électrique. Veuillez réessayer ultérieurement ou sélectionnez un autre vélo électrique.</string>
